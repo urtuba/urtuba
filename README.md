@@ -10,6 +10,7 @@ Engineer in Istanbul. I build the hard parts and keep them running. Former tech 
 ### Along the way
 
 - **2026**: [psytools](https://github.com/urtuba/psytools), [Drumbeats MCP server](https://github.com/drumbeats-io/mcp), [onekey-locker](https://github.com/urtuba/onekey-locker)
+- **2023–26**: tech lead at [BiLira Kripto](https://www.bilira.co). We built the exchange and ran it in production.
 - **2023**: [block-id](https://github.com/urtuba/block-id), ETHGlobal Istanbul, zero-knowledge KYC ([live demo](https://urtuba.github.io/block-id/))
 - **2022**: [tc-id](https://github.com/urtuba/tc-id), Turkish ID validation on npm
 - **2021**: [open-tendering-in-ethereum](https://github.com/urtuba/open-tendering-in-ethereum), my ITU graduation thesis; [tweet-verifier](https://github.com/urtuba/tweet-verifier)
